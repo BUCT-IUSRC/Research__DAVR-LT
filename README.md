@@ -34,7 +34,7 @@ Research on long-tail problems in autonomous driving (AD) perception encounters 
 
 ### 📊 Performance under Different Virtual Data Ratios
 
-<img src="./融合比例.png" alt="Performance Plot" width="32%">
+<img src="./融合比例.png" alt="Performance Plot" width="31%">
 
 
 ## Acknowledgements 🙇
@@ -43,9 +43,6 @@ The algorithmic evaluation and benchmarking in our experiments are greatly inspi
 We sincerely thank the developers and contributors of these projects for advancing research in autonomous driving.
 
 ## License
-
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Abhishek Naidu](https://abhisheknaidu.tech/) has waived all copyright and related or neighboring rights to this work.
 
 
