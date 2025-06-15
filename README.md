@@ -12,7 +12,7 @@ Research on long-tail problems in autonomous driving (AD) perception encounters 
 
 ## Mechanism
 
-<img src="./优化框架图.png" alt="Performance Plot" width="33%">
+<img src="./优化框架图.png" alt="Performance Plot" width="100%">
 
 ## Result
 
@@ -34,7 +34,7 @@ Research on long-tail problems in autonomous driving (AD) perception encounters 
 
 ### 📊 Performance under Different Virtual Data Ratios
 
-<img src="./融合比例.png" alt="Performance Plot" width="33%">
+<img src="./融合比例.png" alt="Performance Plot" width="32%">
 
 
 ## Acknowledgements 🙇
