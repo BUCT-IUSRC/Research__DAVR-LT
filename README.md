@@ -3,7 +3,7 @@
 <div align="center">
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=Paper&style=style=flat&color=BC4E99" alt="Star Badge"/>
 <br>
-<img alt="Awesome GitHub Profile Readme" src="assets/agpr.gif"> </img>
+<img alt="Awesome GitHub Profile Readme" src="./首图.png"> </img>
 </div>
 
 ## Abstract:
@@ -12,16 +12,17 @@ Research on long-tail problems in autonomous driving (AD) perception encounters 
 
 ## Mechanism
 
+<img src="./优化框架图.png" alt="Performance Plot" width="33%">
 
 ## Result
 
 ### 📊 Performance Comparison of Two-Stage Incremental Strategy for Data Fusion
 
-| Strategy      | VRatio | mAP ↑    | NDS ↑    |
-|---------------|--------|----------|----------|
-| R             | 0%     | 0.6316   | 0.6836   |
-| V→R (15%)     | 15%    | **0.6348** | **0.6854** |
-| V→R (20%)     | 20%    | **0.6340** | **0.6853** |
+| Strategy | VRatio | mAP ↑    | NDS ↑    |
+|----------|--------|----------|----------|
+| R        | 0%     | 0.6316   | 0.6836   |
+| V→R      | 15%    | **0.6348** | **0.6854** |
+| V→R      | 20%    | **0.6340** | **0.6853** |
 
 ### 📊 Performance Comparison of Mixed Training with Varying Proportions of Virtual Data
 
@@ -33,11 +34,13 @@ Research on long-tail problems in autonomous driving (AD) perception encounters 
 
 ### 📊 Performance under Different Virtual Data Ratios
 
-![Performance Plot](./performance_plot.png)
+<img src="./融合比例.png" alt="Performance Plot" width="33%">
 
 
-## Special Thanks 🙇
-- [Zetao Zhuang](https://github.com/zzetao) for making the amazing site for this repo!
+## Acknowledgements 🙇
+This work is built upon the CARLA simulator, which serves as the foundational platform for data generation and scenario construction. 
+The algorithmic evaluation and benchmarking in our experiments are greatly inspired by prior open-source contributions, particularly UVTR and MVP. 
+We sincerely thank the developers and contributors of these projects for advancing research in autonomous driving.
 
 ## License
 
