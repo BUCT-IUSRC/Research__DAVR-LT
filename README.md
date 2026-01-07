@@ -14,7 +14,7 @@ Research on long-tail problems in autonomous driving (AD) perception encounters 
 
 <img src="./优化框架图.png" alt="Performance Plot" width="100%">
 
-## Feature Analysis
+## Domain Feature Distance Analysis
 
 To address the mechanisms ensuring the realism of the generated virtual data and to provide a more in-depth quantitative comparison, we have analyzed and compared the feature-domain distributions of both the real and virtual datasets. This analysis forms the basis for demonstrating the effectiveness and realism of the generated data in autonomous driving tasks.
 
